@@ -74,4 +74,10 @@ section{
 .containerImgTitle h2{
     font-size: xx-large;
     text-align: center;
+    color: yellow;
+}
+
+/* Classe per cambiare l'ultimo testo in verde */
+#backgroundYellow .containerImgTitle h2{
+    color: green;
 }
